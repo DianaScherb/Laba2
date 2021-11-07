@@ -2,7 +2,7 @@ package lab2_maven.lab2_maven;
 
 /**
  * Класс Main, предназначенный ввода выражений и получения на экран результатов
- * @author Диана Щербакова, 7 группа, 
+ * @author Диана Щербакова, 5 группа, 
  * @version 1.0
  */
 import java.util.Arrays;
